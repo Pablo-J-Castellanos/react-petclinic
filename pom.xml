@@ -40,6 +40,10 @@
 			<email>japarejo@gmail.com</email>
 			<url>http://www.isa.us.es</url>
 		</developer>
+		<developer>
+			<name>daniel bendito hidalgo</name>
+			<url>https://www.ikarus3d.es/</url>
+		</developer>
 	</developers>
 
 	<dependencies>		
